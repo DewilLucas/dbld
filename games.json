@@ -1,0 +1,2595 @@
+{
+ "data":
+ [
+  {
+  
+    "availability": "OnlineOnly",
+    "currency": "EUR",
+    "currentLowestPrice": 19.37,
+    "id": "minecraft",
+    "name": "Minecraft",
+    "releaseDate": "2009-05-17",
+    "developer": "Mojang AB",
+    "lowestPricesBefore": [
+        {
+            "daysBefore": 30,
+            "price": 25.99
+        },
+        {
+            "daysBefore": 29,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 28,
+            "price": 17.99
+        },
+        {
+            "daysBefore": 27,
+            "price": 14.99
+        },
+        {
+            "daysBefore": 26,
+            "price": 12.99
+        },
+        {
+            "daysBefore": 25,
+            "price": 19.99
+        },
+        {
+            "daysBefore": 24,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 23,
+            "price": 13.99
+        },
+        {
+            "daysBefore": 22,
+            "price": 11.99
+        },
+        {
+            "daysBefore": 21,
+            "price": 9.99
+        },
+        {
+            "daysBefore": 20,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 19,
+            "price": 18.99
+        },
+        {
+            "daysBefore": 18,
+            "price": 13.99
+        },
+        {
+            "daysBefore": 17,
+            "price": 19.99
+        },
+        {
+            "daysBefore": 16,
+            "price": 8.99
+        },
+        {
+            "daysBefore": 15,
+            "price": 12.99
+        },
+        {
+            "daysBefore": 14,
+            "price": 9.99
+        },
+        {
+            "daysBefore": 13,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 12,
+            "price": 30.99
+        },
+        {
+            "daysBefore": 11,
+            "price": 19.99
+        },
+        {
+            "daysBefore": 10,
+            "price": 13.99
+        },
+        {
+            "daysBefore": 9,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 8,
+            "price": 10
+        },
+        {
+            "daysBefore": 7,
+            "price": 11.99
+        },
+        {
+            "daysBefore": 6,
+            "price": 18.99
+        },
+        {
+            "daysBefore": 5,
+            "price": 15.5
+        },
+        {
+            "daysBefore": 4,
+            "price": 21
+        },
+        {
+            "daysBefore": 3,
+            "price": 14.99
+        },
+        {
+            "daysBefore": 2,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 1,
+            "price": 17.3
+        },
+        {
+            "daysBefore": 0,
+            "price": 19.37
+        }
+    ],
+    "stores": [
+        {
+            "price": 19.37,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/minecraft-java-edition"
+        },
+        {
+            "price": 20.38,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/other-minecraft-official-website-key-global"
+        },
+        {
+            "price": 21.35,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/minecraft-java-edition-minecraft-key-global-i10000068122012"
+        },
+        {
+            "price": 21.42,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/other-minecraft-java-edition-official-website-key-united-states-2"
+        },
+        {
+            "price": 21.79,
+            "seller": "CDKeys.com",
+            "url": "https://www.cdkeys.com/minecraft-pc-cd-key"
+        },
+        {
+            "price": 21.89,
+            "seller": "Instant Gaming",
+            "url": "https://www.instant-gaming.com/en/442-/"
+        },
+        {
+            "price": 22.12,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/5329/minecraft-global-cd-key"
+        },
+        {
+            "price": 22.12,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/5329/minecraft-global-cd-key"
+        },
+        {
+            "price": 22.31,
+            "seller": "K4G.com",
+            "url": "https://k4g.com/product/minecraft-java-edition-minecraft-global-cd-key-18E72850"
+        },
+        {
+            "price": 23.1,
+            "seller": "K4G.com",
+            "url": "https://k4g.com/product/minecraft-minecraft-global-cd-key-269E0B00"
+        },
+        {
+            "price": 23.43,
+            "seller": "HRK Game",
+            "url": "https://www.hrkgame.com/en/randomkeyshop/set_currency/"
+        },
+        {
+            "price": 23.71,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/minecraft-java-bedrock-edition-xbox-pc-global-xboxwindows-en-bedrock"
+        },
+        {
+            "price": 23.98,
+            "seller": "MMOGA",
+            "url": "https://www.mmoga.com/Game-Keys/Minecraft.html"
+        },
+        {
+            "price": 24.32,
+            "seller": "K4G.com",
+            "url": "https://k4g.com/product/minecraft-minecraft-global-java-bedrock-edition-cd-key-CFA581CA"
+        },
+        {
+            "price": 24.55,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/other-minecraft-java-bedrock-edition-official-website-key-global"
+        },
+        {
+            "price": 26.29,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/127386/minecraft-java-bedrock-edition-for-pc-windows-10-cd-key"
+        },
+        {
+            "price": 26.29,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/127386/minecraft-java-bedrock-edition-for-pc-windows-10-cd-key"
+        },
+        {
+            "price": 26.95,
+            "seller": "Minecraft.net",
+            "url": "https://www.minecraft.net/store/minecraft-java-edition"
+        },
+        {
+            "price": 28.55,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/other-minecraft-java-bedrock-edition-official-website-key-united-states"
+        },
+        {
+            "price": 29.99,
+            "seller": "Newegg",
+            "url": "https://click.linksynergy.com/deeplink"
+        },
+        {
+            "price": 29.99,
+            "seller": "Microsoft Store",
+            "url": "https://click.linksynergy.com/deeplink"
+        },
+        {
+            "price": 29.99,
+            "seller": "Amazon.com",
+            "url": "https://www.amazon.com/gp/product/B09ZY21PM4"
+        },
+        {
+            "price": 30.49,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/minecraft-java-bedrock-edition-pc-microsoft-store-key-global-i10000326476001"
+        }
+    ],
+    "type": "game",
+    "_rid": "n3UpAL7ZodkCAAAAAAAAAA==",
+    "_self": "dbs/n3UpAA==/colls/n3UpAL7Zodk=/docs/n3UpAL7ZodkCAAAAAAAAAA==/",
+    "_etag": "\"e502c5d8-0000-0d00-0000-638e55f10000\"",
+    "_attachments": "attachments/",
+    "_ts": 1670272497
+    },
+    {
+    "availability": "OnlineOnly",
+    "currency": "EUR",
+    "currentLowestPrice": 43.69,
+    "id": "fifa-23",
+    "name": "EA SPORTS FIFA 23",
+    "releaseDate": "2022-09-29",
+    "developer": "EA",
+    "lowestPricesBefore": [
+        {
+            "daysBefore": 30,
+            "price": 25.99
+        },
+        {
+            "daysBefore": 29,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 28,
+            "price": 17.99
+        },
+        {
+            "daysBefore": 27,
+            "price": 14.99
+        },
+        {
+            "daysBefore": 26,
+            "price": 12.99
+        },
+        {
+            "daysBefore": 25,
+            "price": 19.99
+        },
+        {
+            "daysBefore": 24,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 23,
+            "price": 13.99
+        },
+        {
+            "daysBefore": 22,
+            "price": 11.99
+        },
+        {
+            "daysBefore": 21,
+            "price": 9.99
+        },
+        {
+            "daysBefore": 20,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 19,
+            "price": 18.99
+        },
+        {
+            "daysBefore": 18,
+            "price": 13.99
+        },
+        {
+            "daysBefore": 17,
+            "price": 19.99
+        },
+        {
+            "daysBefore": 16,
+            "price": 8.99
+        },
+        {
+            "daysBefore": 15,
+            "price": 12.99
+        },
+        {
+            "daysBefore": 14,
+            "price": 9.99
+        },
+        {
+            "daysBefore": 13,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 12,
+            "price": 30.99
+        },
+        {
+            "daysBefore": 11,
+            "price": 19.99
+        },
+        {
+            "daysBefore": 10,
+            "price": 13.99
+        },
+        {
+            "daysBefore": 9,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 8,
+            "price": 10
+        },
+        {
+            "daysBefore": 7,
+            "price": 11.99
+        },
+        {
+            "daysBefore": 6,
+            "price": 18.99
+        },
+        {
+            "daysBefore": 5,
+            "price": 15.5
+        },
+        {
+            "daysBefore": 4,
+            "price": 21
+        },
+        {
+            "daysBefore": 3,
+            "price": 14.99
+        },
+        {
+            "daysBefore": 2,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 1,
+            "price": 17.3
+        },
+        {
+            "daysBefore": 0,
+            "price": 43.69
+        }
+    ],
+    "stores": [
+        {
+            "price": 43.69,
+            "seller": "CDKeys.com",
+            "url": "https://www.cdkeys.com/fifa-23-pc-origin"
+        },
+        {
+            "price": 47.09,
+            "seller": "CDKeys.com",
+            "url": "https://www.cdkeys.com/fifa-23-pc-en-origin"
+        },
+        {
+            "price": 50.79,
+            "seller": "Yuplay",
+            "url": "https://www.yuplay.com/product/fifa-23-en-pl/"
+        },
+        {
+            "price": 51.39,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/origin-fifa-23-eng-pc-origin-key-global-4"
+        },
+        {
+            "price": 52.31,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/132894/fifa-23-en-fr-es-mx-pt-br-ch-kr-jp-ar-languages-only-origin-cd-key"
+        },
+        {
+            "price": 52.31,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/132894/fifa-23-en-fr-es-mx-pt-br-ch-kr-jp-ar-languages-only-origin-cd-key"
+        },
+        {
+            "price": 52.9,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/origin-fifa-23-eng-pl-pc-origin-key-global-4"
+        },
+        {
+            "price": 52.96,
+            "seller": "MMOGA",
+            "url": "https://www.mmoga.com/EA-Games/FIFA-23-PC-Origin-EN-Key-English-only.html"
+        },
+        {
+            "price": 53.15,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/130335/fifa-23-en-pl-ru-cz-tr-languages-only-origin-cd-key"
+        },
+        {
+            "price": 53.15,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/131211/fifa-23-en-pl-languages-only-origin-cd-key"
+        },
+        {
+            "price": 53.15,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/130335/fifa-23-en-pl-ru-cz-tr-languages-only-origin-cd-key"
+        },
+        {
+            "price": 53.15,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/131211/fifa-23-en-pl-languages-only-origin-cd-key"
+        },
+        {
+            "price": 53.36,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/origin-fifa-23-en-pl-cz-tr-pc-origin-key-global"
+        },
+        {
+            "price": 54.9,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/origin-fifa-23-pc-origin-key-global"
+        },
+        {
+            "price": 56.24,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/fifa-23-pc-origin-global-en-de-fr-it-pl-cs-nl-ja-ko-no-pt-ru-es-sv-tr-zh-da-ar-standard"
+        },
+        {
+            "price": 56.35,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/origin-fifa-23-en-fr-pc-origin-key-global"
+        },
+        {
+            "price": 57.44,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/fifa-23-pc-origin-unitedstates-us-fr-br-es-jpn-kor-cn-standard"
+        },
+        {
+            "price": 60.3,
+            "seller": "K4G.com",
+            "url": "https://k4g.com/product/fifa-23-origin-global-standard-edition-cd-key-2A286DB7"
+        },
+        {
+            "price": 61.28,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/fifa-23-pc-origin-key-global-en-es-latam-br-fr-jpn-kor-cn-i10000336532038"
+        },
+        {
+            "price": 63.22,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/origin-fifa-23-en-fr-es-mx-br-pc-origin-key-global"
+        },
+        {
+            "price": 63.4,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/fifa-23-pc-origin-global-en-pl-cz-tr-standard"
+        },
+        {
+            "price": 63.74,
+            "seller": "HRK Game",
+            "url": "https://www.hrkgame.com/en/randomkeyshop/set_currency/"
+        },
+        {
+            "price": 64.8,
+            "seller": "HRK Game",
+            "url": "https://www.hrkgame.com/en/randomkeyshop/set_currency/"
+        },
+        {
+            "price": 65.45,
+            "seller": "K4G.com",
+            "url": "https://k4g.com/product/fifa-23-origin-global-standard-edition-cd-key-54DBCCCA"
+        },
+        {
+            "price": 65.86,
+            "seller": "HRK Game",
+            "url": "https://www.hrkgame.com/en/randomkeyshop/set_currency/"
+        },
+        {
+            "price": 66.63,
+            "seller": "Gamesforplay",
+            "url": "https://gamesforplay.com/fifa-23-ultimate-edition-origin-ww-in-english-only"
+        },
+        {
+            "price": 66.66,
+            "seller": "K4G.com",
+            "url": "https://k4g.com/product/fifa-23-origin-global-standard-edition-cd-key-201A44E4"
+        },
+        {
+            "price": 66.66,
+            "seller": "K4G.com",
+            "url": "https://k4g.com/product/fifa-23-origin-global-standard-edition-cd-key-B588578A"
+        },
+        {
+            "price": 66.89,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/fifa-23-pc-origin-key-global-en-pl-cz-tr-i10000336532036"
+        },
+        {
+            "price": 67.49,
+            "seller": "Ea.com",
+            "url": "https://www.ea.com/en-us/games/fifa/fifa-23/buy/pc"
+        },
+        {
+            "price": 67.49,
+            "seller": "Amazon.com",
+            "url": "https://www.amazon.com/gp/product/B0BGJZ73VZ"
+        },
+        {
+            "price": 67.79,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/fifa-23-pc-origin-key-united-states-i10000336532037"
+        },
+        {
+            "price": 68.02,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/fifa-23-pc-origin-key-global-i10000336532001"
+        },
+        {
+            "price": 68.7,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/128894/fifa-23-origin-cd-key"
+        },
+        {
+            "price": 68.7,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/128894/fifa-23-origin-cd-key"
+        },
+        {
+            "price": 68.99,
+            "seller": "CDKeys.com",
+            "url": "https://www.cdkeys.com/fifa-23-ultimate-edition-pc-en-origin"
+        },
+        {
+            "price": 69.81,
+            "seller": "HRK Game",
+            "url": "https://www.hrkgame.com/en/randomkeyshop/set_currency/"
+        },
+        {
+            "price": 69.99,
+            "seller": "Amazon.com",
+            "url": "https://www.amazon.com/gp/product/B0BGJZG5RT"
+        },
+        {
+            "price": 69.99,
+            "seller": "Amazon.com",
+            "url": "https://www.amazon.com/gp/product/B0BGJZ9WZW"
+        },
+        {
+            "price": 69.99,
+            "seller": "Ea.com",
+            "url": "https://www.ea.com/en-us/games/fifa/fifa-23/buy/pc"
+        },
+        {
+            "price": 69.99,
+            "seller": "Steam",
+            "url": "https://store.steampowered.com/app/1811260/"
+        },
+        {
+            "price": 69.99,
+            "seller": "Epic Games Store",
+            "url": "https://www.epicgames.com/store/p/fifa-23"
+        },
+        {
+            "price": 72.11,
+            "seller": "Instant Gaming",
+            "url": "https://www.instant-gaming.com/en/13061-/"
+        },
+        {
+            "price": 73.83,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/origin-fifa-23-ultimate-edition-en-pl-ru-pc-origin-key-global"
+        },
+        {
+            "price": 75.92,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/fifa-23-pc-origin-global-en-ru-pl-ultimate"
+        },
+        {
+            "price": 76.68,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/fifa-23-pc-origin-global-en-pl-ru-cz-tr-ultimate"
+        },
+        {
+            "price": 77.94,
+            "seller": "MMOGA",
+            "url": "https://www.mmoga.com/EA-Games/FIFA-23-Ultimate-Edition-PC-Origin-EN-Key-English-Only.html"
+        },
+        {
+            "price": 85.56,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/fifa-23-pc-steam-gift-global-i10000336532004"
+        },
+        {
+            "price": 86.82,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/131217/fifa-23-ultimate-edition-en-pl-ru-cz-tr-languages-only-origin-cd-key"
+        },
+        {
+            "price": 86.82,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/131217/fifa-23-ultimate-edition-en-pl-ru-cz-tr-languages-only-origin-cd-key"
+        },
+        {
+            "price": 87.1,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/fifa-23-ultimate-edition-pc-origin-key-global-en-pl-cz-ru-tr-i10000336532042"
+        },
+        {
+            "price": 87.41,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/fifa-23-pc-steam-gift-global-en-de-fr-it-pl-cs-nl-ja-ko-no-pt-ru-es-sv-tr-zh-da-ar-standard"
+        },
+        {
+            "price": 87.47,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/fifa-23-ultimate-edition-pc-origin-key-global-eng-only-i10000336532040"
+        },
+        {
+            "price": 87.56,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/132896/fifa-23-ultimate-edition-en-pl-ru-languages-only-origin-cd-key"
+        },
+        {
+            "price": 87.56,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/132896/fifa-23-ultimate-edition-en-pl-ru-languages-only-origin-cd-key"
+        },
+        {
+            "price": 89.99,
+            "seller": "Steam",
+            "url": "https://store.steampowered.com/sub/708901/"
+        },
+        {
+            "price": 89.99,
+            "seller": "Epic Games Store",
+            "url": "https://www.epicgames.com/store/p/fifa-23--ultimate-edition"
+        },
+        {
+            "price": 89.99,
+            "seller": "Amazon.com",
+            "url": "https://www.amazon.com/gp/product/B0BGJZFRH7"
+        },
+        {
+            "price": 92.19,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/125620/fifa-23-steam-altergift"
+        },
+        {
+            "price": 92.19,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/125620/fifa-23-steam-altergift"
+        },
+        {
+            "price": 101.5,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/origin-fifa-23-ultimate-edition-pc-origin-key-global"
+        },
+        {
+            "price": 103.75,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/133484/fifa-23-ultimate-edition-en-language-only-origin-cd-key"
+        },
+        {
+            "price": 103.75,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/133484/fifa-23-ultimate-edition-en-language-only-origin-cd-key"
+        },
+        {
+            "price": 105.03,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/fifa-23-ultimate-edition-pc-steam-gift-global-i10000336532010"
+        },
+        {
+            "price": 106.65,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/fifa-23-pc-steam-gift-global-en-de-fr-it-pl-cs-nl-ja-ko-no-pt-ru-es-sv-tr-zh-da-ar-ultimate"
+        },
+        {
+            "price": 106.92,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/fifa-23-pc-origin-global-en-de-fr-it-pl-cs-nl-ja-ko-no-pt-ru-es-sv-tr-zh-da-ar-ultimate"
+        },
+        {
+            "price": 114.62,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/125621/fifa-23-ultimate-edition-steam-altergift"
+        },
+        {
+            "price": 114.62,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/125621/fifa-23-ultimate-edition-steam-altergift"
+        },
+        {
+            "price": 116.8,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/fifa-23-ultimate-edition-pc-origin-key-global-i10000336532007"
+        },
+        {
+            "price": 122.84,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/131984/fifa-23-ultimate-edition-origin-cd-key"
+        },
+        {
+            "price": 122.84,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/131984/fifa-23-ultimate-edition-origin-cd-key"
+        }
+    ],
+    "type": "game",
+    "_rid": "n3UpAL7ZodkDAAAAAAAAAA==",
+    "_self": "dbs/n3UpAA==/colls/n3UpAL7Zodk=/docs/n3UpAL7ZodkDAAAAAAAAAA==/",
+    "_etag": "\"e50224d9-0000-0d00-0000-638e56030000\"",
+    "_attachments": "attachments/",
+    "_ts": 1670272515
+},
+{
+    "availability": "OnlineOnly",
+    "currency": "EUR",
+    "currentLowestPrice": 69.99,
+    "id": "call-of-duty-modern-warfare-ii-2022",
+    "name": "Call of Duty: Modern Warfare II",
+    "releaseDate": "2022-10-28",
+    "developer": "Activision",
+    "lowestPricesBefore": [
+        {
+            "daysBefore": 30,
+            "price": 25.99
+        },
+        {
+            "daysBefore": 29,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 28,
+            "price": 17.99
+        },
+        {
+            "daysBefore": 27,
+            "price": 14.99
+        },
+        {
+            "daysBefore": 26,
+            "price": 12.99
+        },
+        {
+            "daysBefore": 25,
+            "price": 19.99
+        },
+        {
+            "daysBefore": 24,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 23,
+            "price": 13.99
+        },
+        {
+            "daysBefore": 22,
+            "price": 11.99
+        },
+        {
+            "daysBefore": 21,
+            "price": 9.99
+        },
+        {
+            "daysBefore": 20,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 19,
+            "price": 18.99
+        },
+        {
+            "daysBefore": 18,
+            "price": 13.99
+        },
+        {
+            "daysBefore": 17,
+            "price": 19.99
+        },
+        {
+            "daysBefore": 16,
+            "price": 8.99
+        },
+        {
+            "daysBefore": 15,
+            "price": 12.99
+        },
+        {
+            "daysBefore": 14,
+            "price": 9.99
+        },
+        {
+            "daysBefore": 13,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 12,
+            "price": 30.99
+        },
+        {
+            "daysBefore": 11,
+            "price": 19.99
+        },
+        {
+            "daysBefore": 10,
+            "price": 13.99
+        },
+        {
+            "daysBefore": 9,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 8,
+            "price": 10
+        },
+        {
+            "daysBefore": 7,
+            "price": 11.99
+        },
+        {
+            "daysBefore": 6,
+            "price": 18.99
+        },
+        {
+            "daysBefore": 5,
+            "price": 15.5
+        },
+        {
+            "daysBefore": 4,
+            "price": 21
+        },
+        {
+            "daysBefore": 3,
+            "price": 14.99
+        },
+        {
+            "daysBefore": 2,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 1,
+            "price": 17.3
+        },
+        {
+            "daysBefore": 0,
+            "price": 69.99
+        }
+    ],
+    "stores": [
+        {
+            "price": 69.99,
+            "seller": "Steam",
+            "url": "https://store.steampowered.com/app/1938090/"
+        },
+        {
+            "price": 69.99,
+            "seller": "Battle.net",
+            "url": "https://us.shop.battle.net/product/call-of-duty-modern-warfare-ii"
+        },
+        {
+            "price": 99.99,
+            "seller": "Steam",
+            "url": "https://store.steampowered.com/sub/730695/"
+        },
+        {
+            "price": 99.99,
+            "seller": "Battle.net",
+            "url": "https://us.shop.battle.net/product/call-of-duty-modern-warfare-ii"
+        }
+    ],
+    "type": "game",
+    "_rid": "n3UpAL7ZodkEAAAAAAAAAA==",
+    "_self": "dbs/n3UpAA==/colls/n3UpAL7Zodk=/docs/n3UpAL7ZodkEAAAAAAAAAA==/",
+    "_etag": "\"e502dbd9-0000-0d00-0000-638e561e0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1670272542
+},
+{
+    "availability": "OnlineOnly",
+    "currency": "EUR",
+    "currentLowestPrice": 16.91,
+    "id": "session-skateboarding-sim-game",
+    "name": "Session: Skate Sim",
+    "releaseDate": "2022-09-22",
+    "developer": "crea-ture Studios Inc.",
+    "lowestPricesBefore": [
+        {
+            "daysBefore": 30,
+            "price": 25.99
+        },
+        {
+            "daysBefore": 29,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 28,
+            "price": 17.99
+        },
+        {
+            "daysBefore": 27,
+            "price": 14.99
+        },
+        {
+            "daysBefore": 26,
+            "price": 12.99
+        },
+        {
+            "daysBefore": 25,
+            "price": 19.99
+        },
+        {
+            "daysBefore": 24,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 23,
+            "price": 13.99
+        },
+        {
+            "daysBefore": 22,
+            "price": 11.99
+        },
+        {
+            "daysBefore": 21,
+            "price": 9.99
+        },
+        {
+            "daysBefore": 20,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 19,
+            "price": 18.99
+        },
+        {
+            "daysBefore": 18,
+            "price": 13.99
+        },
+        {
+            "daysBefore": 17,
+            "price": 19.99
+        },
+        {
+            "daysBefore": 16,
+            "price": 8.99
+        },
+        {
+            "daysBefore": 15,
+            "price": 12.99
+        },
+        {
+            "daysBefore": 14,
+            "price": 9.99
+        },
+        {
+            "daysBefore": 13,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 12,
+            "price": 30.99
+        },
+        {
+            "daysBefore": 11,
+            "price": 19.99
+        },
+        {
+            "daysBefore": 10,
+            "price": 13.99
+        },
+        {
+            "daysBefore": 9,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 8,
+            "price": 10
+        },
+        {
+            "daysBefore": 7,
+            "price": 11.99
+        },
+        {
+            "daysBefore": 6,
+            "price": 18.99
+        },
+        {
+            "daysBefore": 5,
+            "price": 15.5
+        },
+        {
+            "daysBefore": 4,
+            "price": 21
+        },
+        {
+            "daysBefore": 3,
+            "price": 14.99
+        },
+        {
+            "daysBefore": 2,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 1,
+            "price": 17.3
+        },
+        {
+            "daysBefore": 0,
+            "price": 16.91
+        }
+    ],
+    "stores": [
+        {
+            "price": 16.91,
+            "seller": "Instant Gaming",
+            "url": "https://www.instant-gaming.com/en/5735-/"
+        },
+        {
+            "price": 18.66,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/session-skateboarding-sim-game"
+        },
+        {
+            "price": 19.66,
+            "seller": "Voidu",
+            "url": "https://lt45.net/c/"
+        },
+        {
+            "price": 20.01,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/steam-session-skateboarding-sim-game-steam-key-global"
+        },
+        {
+            "price": 20.69,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/69388/session-skateboarding-sim-game-steam-cd-key"
+        },
+        {
+            "price": 20.69,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/69388/session-skateboarding-sim-game-steam-cd-key"
+        },
+        {
+            "price": 21.56,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/steam-session-skate-sim-pc-steam-key-global"
+        },
+        {
+            "price": 21.66,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/session-skateboarding-sim-game-steam-global-en-de-fr-it-pl-ja-ko-pt-ru-zh-es-zh-supporter-pc"
+        },
+        {
+            "price": 22.08,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/session-skateboarding-sim-game-steam-key-global-i10000192452003"
+        },
+        {
+            "price": 22.98,
+            "seller": "MMOGA",
+            "url": "https://www.mmoga.com/Steam-Games/SESSION-Skate-Sim.html"
+        },
+        {
+            "price": 24.19,
+            "seller": "K4G.com",
+            "url": "https://k4g.com/product/session-skateboarding-sim-game-steam-global-cd-key-A5A3036B"
+        },
+        {
+            "price": 24.74,
+            "seller": "HRK Game",
+            "url": "https://www.hrkgame.com/en/randomkeyshop/set_currency/"
+        },
+        {
+            "price": 25.98,
+            "seller": "Gamebillet",
+            "url": "https://www.gamebillet.com/session-skate-sim"
+        },
+        {
+            "price": 26.97,
+            "seller": "MMOGA",
+            "url": "https://www.mmoga.com/Steam-Games/SESSION-Skate-Sim-Supporter-Edition.html"
+        },
+        {
+            "price": 27.87,
+            "seller": "Voidu",
+            "url": "https://lt45.net/c/"
+        },
+        {
+            "price": 29.76,
+            "seller": "Fanatical",
+            "url": "https://www.jdoqocy.com/click-7770860-13212017"
+        },
+        {
+            "price": 31.99,
+            "seller": "GamersGate",
+            "url": "https://www.gamersgate.com/product/session-skate-sim/"
+        },
+        {
+            "price": 35.19,
+            "seller": "DLGamer.com",
+            "url": "https://www.dlgamer.com/us/games/buy-session-skateboarding-sim-game-87016"
+        },
+        {
+            "price": 35.74,
+            "seller": "Gamebillet",
+            "url": "https://www.gamebillet.com/session-skate-sim-supporter-edition"
+        },
+        {
+            "price": 35.84,
+            "seller": "Dreamgame",
+            "url": "https://www.dreamgame.com/session-skate-sim-supporter-edition-3"
+        },
+        {
+            "price": 35.85,
+            "seller": "Gamesplanet FR",
+            "url": "https://fr.gamesplanet.com/game/session-skate-sim-steam-key--5111-1"
+        },
+        {
+            "price": 35.85,
+            "seller": "Gamesplanet DE",
+            "url": "https://de.gamesplanet.com/game/session-skate-sim-steam-key--5111-1"
+        },
+        {
+            "price": 35.99,
+            "seller": "Gamesplanet US",
+            "url": "https://us.gamesplanet.com/game/session-skate-sim-steam-key--5111-1"
+        },
+        {
+            "price": 36.34,
+            "seller": "Green Man Gaming",
+            "url": "https://greenmangaming.sjv.io/c/1406679/1281797/15105"
+        },
+        {
+            "price": 36.52,
+            "seller": "Gamesplanet UK",
+            "url": "https://uk.gamesplanet.com/game/session-skate-sim-steam-key--5111-1"
+        },
+        {
+            "price": 37.33,
+            "seller": "JoyBuggy",
+            "url": "https://www.joybuggy.com/en/session-skate-sim-supporter-edition"
+        },
+        {
+            "price": 39.82,
+            "seller": "GamersGate",
+            "url": "https://www.gamersgate.com/product/session-skate-sim-supporter-edition/"
+        },
+        {
+            "price": 39.99,
+            "seller": "Indie Gala Store",
+            "url": "https://www.indiegala.com/store/game/session-skate-sim/861650"
+        },
+        {
+            "price": 39.99,
+            "seller": "WinGameStore",
+            "url": "https://www.wingamestore.com/product/12811/Session-Skate-Sim/"
+        },
+        {
+            "price": 39.99,
+            "seller": "Humble Store",
+            "url": "https://www.humblebundle.com/store/session-skate-sim"
+        },
+        {
+            "price": 39.99,
+            "seller": "Green Man Gaming",
+            "url": "https://greenmangaming.sjv.io/c/1406679/1281797/15105"
+        },
+        {
+            "price": 39.99,
+            "seller": "Epic Games Store",
+            "url": "https://www.epicgames.com/store/p/session-skate-sim"
+        },
+        {
+            "price": 39.99,
+            "seller": "Newegg",
+            "url": "https://click.linksynergy.com/deeplink"
+        },
+        {
+            "price": 39.99,
+            "seller": "Steam",
+            "url": "https://store.steampowered.com/app/861650/"
+        },
+        {
+            "price": 42.31,
+            "seller": "Fanatical",
+            "url": "https://www.jdoqocy.com/click-7770860-13212017"
+        },
+        {
+            "price": 43.81,
+            "seller": "DLGamer.com",
+            "url": "https://www.dlgamer.com/us/games/buy-session-supporter-91343"
+        },
+        {
+            "price": 44.32,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/session-skateboarding-sim-game-steam-gift-global-en-standard-pc"
+        },
+        {
+            "price": 44.63,
+            "seller": "Gamesplanet DE",
+            "url": "https://de.gamesplanet.com/game/session-skate-sim-supporter-edition-steam-key--5111-2"
+        },
+        {
+            "price": 44.63,
+            "seller": "Gamesplanet FR",
+            "url": "https://fr.gamesplanet.com/game/session-skate-sim-supporter-edition-steam-key--5111-2"
+        },
+        {
+            "price": 44.8,
+            "seller": "Gamesplanet US",
+            "url": "https://us.gamesplanet.com/game/session-skate-sim-supporter-edition-steam-key--5111-2"
+        },
+        {
+            "price": 45.07,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/132069/session-skateboarding-sim-game-steam-altergift"
+        },
+        {
+            "price": 45.07,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/132069/session-skateboarding-sim-game-steam-altergift"
+        },
+        {
+            "price": 45.37,
+            "seller": "Gamesplanet UK",
+            "url": "https://uk.gamesplanet.com/game/session-skate-sim-supporter-edition-steam-key--5111-2"
+        },
+        {
+            "price": 49.77,
+            "seller": "Steam",
+            "url": "https://store.steampowered.com/bundle/27649/"
+        },
+        {
+            "price": 49.78,
+            "seller": "Newegg",
+            "url": "https://click.linksynergy.com/deeplink"
+        },
+        {
+            "price": 49.78,
+            "seller": "Epic Games Store",
+            "url": "https://www.epicgames.com/store/p/session-skate-sim--supporter-edition"
+        },
+        {
+            "price": 53.08,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/session-skateboarding-sim-game-steam-gift-global-i10000192452001"
+        },
+        {
+            "price": 59.97,
+            "seller": "Indie Gala Store",
+            "url": "https://www.indiegala.com/store/game/session-skate-sim-supporter-edition/27649"
+        }
+    ],
+    "type": "game",
+    "_rid": "n3UpAL7ZodkFAAAAAAAAAA==",
+    "_self": "dbs/n3UpAA==/colls/n3UpAL7Zodk=/docs/n3UpAL7ZodkFAAAAAAAAAA==/",
+    "_etag": "\"e50269da-0000-0d00-0000-638e56360000\"",
+    "_attachments": "attachments/",
+    "_ts": 1670272566
+},
+{
+    "availability": "OnlineOnly",
+    "currency": "EUR",
+    "currentLowestPrice": 45.99,
+    "id": "need-for-speed-unbound",
+    "name": "Need for Speed Unbound",
+    "releaseDate": "2022-12-02",
+    "developer": "EA",
+    "lowestPricesBefore": [
+        {
+            "daysBefore": 30,
+            "price": 25.99
+        },
+        {
+            "daysBefore": 29,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 28,
+            "price": 17.99
+        },
+        {
+            "daysBefore": 27,
+            "price": 14.99
+        },
+        {
+            "daysBefore": 26,
+            "price": 12.99
+        },
+        {
+            "daysBefore": 25,
+            "price": 19.99
+        },
+        {
+            "daysBefore": 24,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 23,
+            "price": 13.99
+        },
+        {
+            "daysBefore": 22,
+            "price": 11.99
+        },
+        {
+            "daysBefore": 21,
+            "price": 9.99
+        },
+        {
+            "daysBefore": 20,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 19,
+            "price": 18.99
+        },
+        {
+            "daysBefore": 18,
+            "price": 13.99
+        },
+        {
+            "daysBefore": 17,
+            "price": 19.99
+        },
+        {
+            "daysBefore": 16,
+            "price": 8.99
+        },
+        {
+            "daysBefore": 15,
+            "price": 12.99
+        },
+        {
+            "daysBefore": 14,
+            "price": 9.99
+        },
+        {
+            "daysBefore": 13,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 12,
+            "price": 30.99
+        },
+        {
+            "daysBefore": 11,
+            "price": 19.99
+        },
+        {
+            "daysBefore": 10,
+            "price": 13.99
+        },
+        {
+            "daysBefore": 9,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 8,
+            "price": 10
+        },
+        {
+            "daysBefore": 7,
+            "price": 11.99
+        },
+        {
+            "daysBefore": 6,
+            "price": 18.99
+        },
+        {
+            "daysBefore": 5,
+            "price": 15.5
+        },
+        {
+            "daysBefore": 4,
+            "price": 21
+        },
+        {
+            "daysBefore": 3,
+            "price": 14.99
+        },
+        {
+            "daysBefore": 2,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 1,
+            "price": 17.3
+        },
+        {
+            "daysBefore": 0,
+            "price": 45.99
+        }
+    ],
+    "stores": [
+        {
+            "price": 45.99,
+            "seller": "CDKeys.com",
+            "url": "https://www.cdkeys.com/need-for-speed-unbound-pc-origin"
+        },
+        {
+            "price": 48.08,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/133289/need-for-speed-unbound-pre-order-origin-cd-key"
+        },
+        {
+            "price": 48.08,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/133289/need-for-speed-unbound-pre-order-origin-cd-key"
+        },
+        {
+            "price": 48.2,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/135133/need-for-speed-unbound-en-language-only-pre-order-origin-cd-key"
+        },
+        {
+            "price": 48.2,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/135133/need-for-speed-unbound-en-language-only-pre-order-origin-cd-key"
+        },
+        {
+            "price": 49.25,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/need-for-speed-unbound-pc-origin-global-en-de-fr-it-pl-ja-ko-pt-zh-es-zh-ar-standard"
+        },
+        {
+            "price": 49.77,
+            "seller": "Instant Gaming",
+            "url": "https://www.instant-gaming.com/en/8490-/"
+        },
+        {
+            "price": 50.79,
+            "seller": "Yuplay",
+            "url": "https://www.yuplay.com/product/need-for-speed-unbound/"
+        },
+        {
+            "price": 51.26,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/origin-need-for-speedtm-unbound-pc-origin-key-global"
+        },
+        {
+            "price": 51.34,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/origin-need-for-speedtm-unbound-eng-pl-pc-origin-key-global"
+        },
+        {
+            "price": 51.34,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/origin-need-for-speedtm-unbound-eng-pc-origin-key-global"
+        },
+        {
+            "price": 51.81,
+            "seller": "K4G.com",
+            "url": "https://k4g.com/product/need-for-speed-unbound-origin-global-cd-key-27F86086"
+        },
+        {
+            "price": 53.96,
+            "seller": "MMOGA",
+            "url": "https://www.mmoga.com/EA-Games/Need-for-Speed-Unbound.html"
+        },
+        {
+            "price": 58.17,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/need-for-speed-unbound-pc-origin-key-global-i10000336997004"
+        },
+        {
+            "price": 69.99,
+            "seller": "Epic Games Store",
+            "url": "https://www.epicgames.com/store/p/need-for-speed-unbound"
+        },
+        {
+            "price": 69.99,
+            "seller": "Steam",
+            "url": "https://store.steampowered.com/app/1846380/"
+        },
+        {
+            "price": 69.99,
+            "seller": "Ea.com",
+            "url": "https://www.ea.com/en-us/games/need-for-speed/need-for-speed-unbound/buy/pc"
+        },
+        {
+            "price": 79.99,
+            "seller": "Ea.com",
+            "url": "https://www.origin.com/usa/en-us/store/need-for-speed/need-for-speed-unbound/deluxe-loyalty-edition"
+        },
+        {
+            "price": 79.99,
+            "seller": "Epic Games Store",
+            "url": "https://www.epicgames.com/store/p/need-for-speed-unbound--palace-edition"
+        },
+        {
+            "price": 79.99,
+            "seller": "Steam",
+            "url": "https://store.steampowered.com/sub/707810/"
+        },
+        {
+            "price": 79.99,
+            "seller": "Ea.com",
+            "url": "https://www.ea.com/en-us/games/need-for-speed/need-for-speed-unbound/buy/pc"
+        },
+        {
+            "price": 85.34,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/need-for-speed-unbound-pc-steamgift-global-en-de-fr-it-pl-ja-ko-pt-zh-es-zh-ar-standard"
+        },
+        {
+            "price": 91.85,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/need-for-speed-unbound-palace-edition-pc-steam-gift-global-i10000336997010"
+        },
+        {
+            "price": 91.9,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/133350/need-for-speed-unbound-steam-altergift"
+        },
+        {
+            "price": 91.9,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/133350/need-for-speed-unbound-steam-altergift"
+        },
+        {
+            "price": 92.79,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/need-for-speed-unbound-pc-steam-gift-global-i10000336997001"
+        },
+        {
+            "price": 93.31,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/need-for-speed-unbound-pc-steamgift-global-en-de-fr-it-pl-ja-ko-pt-zh-es-zh-ar-palace"
+        },
+        {
+            "price": 100.39,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/133352/need-for-speed-unbound-palace-edition-steam-altergift"
+        },
+        {
+            "price": 100.39,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/133352/need-for-speed-unbound-palace-edition-steam-altergift"
+        }
+    ],
+    "type": "game",
+    "_rid": "n3UpAL7ZodkGAAAAAAAAAA==",
+    "_self": "dbs/n3UpAA==/colls/n3UpAL7Zodk=/docs/n3UpAL7ZodkGAAAAAAAAAA==/",
+    "_etag": "\"e50238dc-0000-0d00-0000-638e568b0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1670272651
+},
+{
+    "availability": "OnlineOnly",
+    "currency": "EUR",
+    "currentLowestPrice": 29.99,
+    "id": "f1-22",
+    "name": "F1 22",
+    "releaseDate": "2022-06-30",
+    "developer": "EA",
+    "lowestPricesBefore": [
+        {
+            "daysBefore": 30,
+            "price": 25.99
+        },
+        {
+            "daysBefore": 29,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 28,
+            "price": 17.99
+        },
+        {
+            "daysBefore": 27,
+            "price": 14.99
+        },
+        {
+            "daysBefore": 26,
+            "price": 12.99
+        },
+        {
+            "daysBefore": 25,
+            "price": 19.99
+        },
+        {
+            "daysBefore": 24,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 23,
+            "price": 13.99
+        },
+        {
+            "daysBefore": 22,
+            "price": 11.99
+        },
+        {
+            "daysBefore": 21,
+            "price": 9.99
+        },
+        {
+            "daysBefore": 20,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 19,
+            "price": 18.99
+        },
+        {
+            "daysBefore": 18,
+            "price": 13.99
+        },
+        {
+            "daysBefore": 17,
+            "price": 19.99
+        },
+        {
+            "daysBefore": 16,
+            "price": 8.99
+        },
+        {
+            "daysBefore": 15,
+            "price": 12.99
+        },
+        {
+            "daysBefore": 14,
+            "price": 9.99
+        },
+        {
+            "daysBefore": 13,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 12,
+            "price": 30.99
+        },
+        {
+            "daysBefore": 11,
+            "price": 19.99
+        },
+        {
+            "daysBefore": 10,
+            "price": 13.99
+        },
+        {
+            "daysBefore": 9,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 8,
+            "price": 10
+        },
+        {
+            "daysBefore": 7,
+            "price": 11.99
+        },
+        {
+            "daysBefore": 6,
+            "price": 18.99
+        },
+        {
+            "daysBefore": 5,
+            "price": 15.5
+        },
+        {
+            "daysBefore": 4,
+            "price": 21
+        },
+        {
+            "daysBefore": 3,
+            "price": 14.99
+        },
+        {
+            "daysBefore": 2,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 1,
+            "price": 17.3
+        },
+        {
+            "daysBefore": 0,
+            "price": 29.99
+        }
+    ],
+    "stores": [
+        {
+            "price": 29.99,
+            "seller": "Amazon.com",
+            "url": "https://www.amazon.com/gp/product/B0B2Q9814C"
+        },
+        {
+            "price": 29.99,
+            "seller": "Steam",
+            "url": "https://store.steampowered.com/app/1692250/"
+        },
+        {
+            "price": 29.99,
+            "seller": "Amazon.com",
+            "url": "https://www.amazon.com/gp/product/B0B2Q9R6XD"
+        },
+        {
+            "price": 29.99,
+            "seller": "Ea.com",
+            "url": "https://www.ea.com/en-us/games/f1/f1-22/buy/pc"
+        },
+        {
+            "price": 31.38,
+            "seller": "K4G.com",
+            "url": "https://k4g.com/product/f1-22-origin-global-cd-key-4616528B"
+        },
+        {
+            "price": 32.78,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/origin-f1-22-en-pl-pc-origin-key-global"
+        },
+        {
+            "price": 33.05,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/f1-22-origin"
+        },
+        {
+            "price": 33.45,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/origin-f1-22-en-pl-ru-pc-origin-key-global"
+        },
+        {
+            "price": 33.45,
+            "seller": "Yuplay",
+            "url": "https://www.yuplay.com/product/f1-22/"
+        },
+        {
+            "price": 33.61,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/origin-f1-22-en-pc-origin-key-global"
+        },
+        {
+            "price": 33.84,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/f1-22-origin-the-game-eng-pl"
+        },
+        {
+            "price": 33.92,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/122963/f1-22-en-language-only-origin-cd-key"
+        },
+        {
+            "price": 33.92,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/122963/f1-22-en-language-only-origin-cd-key"
+        },
+        {
+            "price": 34.07,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/origin-f1-22-pc-origin-key-global"
+        },
+        {
+            "price": 34.49,
+            "seller": "CDKeys.com",
+            "url": "https://www.cdkeys.com/f1-22-pc-origin"
+        },
+        {
+            "price": 34.78,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/130137/f1-22-en-pl-ru-languages-only-origin-cd-key"
+        },
+        {
+            "price": 34.78,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/130137/f1-22-en-pl-ru-languages-only-origin-cd-key"
+        },
+        {
+            "price": 34.88,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/122964/f1-22-en-pl-languages-only-origin-cd-key"
+        },
+        {
+            "price": 34.88,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/122964/f1-22-en-pl-languages-only-origin-cd-key"
+        },
+        {
+            "price": 36.68,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/steam-f1-22-pc-steam-key-global"
+        },
+        {
+            "price": 36.8,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/122653/f1-22-steam-cd-key"
+        },
+        {
+            "price": 36.8,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/122653/f1-22-steam-cd-key"
+        },
+        {
+            "price": 37.08,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/122654/f1-22-origin-cd-key"
+        },
+        {
+            "price": 37.08,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/122654/f1-22-origin-cd-key"
+        },
+        {
+            "price": 37.39,
+            "seller": "K4G.com",
+            "url": "https://k4g.com/product/f1-22-origin-global-cd-key-45A54073"
+        },
+        {
+            "price": 38.82,
+            "seller": "Instant Gaming",
+            "url": "https://www.instant-gaming.com/en/10550-/"
+        },
+        {
+            "price": 39.99,
+            "seller": "Amazon.com",
+            "url": "https://www.amazon.com/gp/product/B0B2QGKQC5"
+        },
+        {
+            "price": 39.99,
+            "seller": "Amazon.com",
+            "url": "https://www.amazon.com/gp/product/B0B2QDQQ32"
+        },
+        {
+            "price": 39.99,
+            "seller": "Ea.com",
+            "url": "https://www.ea.com/en-us/games/f1/f1-22/buy/pc"
+        },
+        {
+            "price": 40.25,
+            "seller": "HRK Game",
+            "url": "https://www.hrkgame.com/en/randomkeyshop/set_currency/"
+        },
+        {
+            "price": 40.25,
+            "seller": "HRK Game",
+            "url": "https://www.hrkgame.com/en/randomkeyshop/set_currency/"
+        },
+        {
+            "price": 42.2,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/f1-22-pc-origin-key-global-pl-en-ru-i10000326053025"
+        },
+        {
+            "price": 42.63,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/f1-22-eng-pl"
+        },
+        {
+            "price": 43.05,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/f1-22-pc-origin-key-global-i10000326053014"
+        },
+        {
+            "price": 43.24,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/f1-22-champions-edition-limited-time-bonus-steam-gift"
+        },
+        {
+            "price": 43.66,
+            "seller": "HRK Game",
+            "url": "https://www.hrkgame.com/en/randomkeyshop/set_currency/"
+        },
+        {
+            "price": 43.89,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/f1-22-steam-standard-eu-en-de-fr-it-pl-cs-nl-ja-pt-ru-zh-es-pc"
+        },
+        {
+            "price": 43.99,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/119004/f1-22-champions-edition-steam-altergift"
+        },
+        {
+            "price": 43.99,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/119004/f1-22-champions-edition-steam-altergift"
+        },
+        {
+            "price": 51.77,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/f1-22-champions-edition-pc-steam-gift-global-i10000326053010"
+        },
+        {
+            "price": 52.25,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/122834/f1-22-champions-edition-steam-cd-key"
+        },
+        {
+            "price": 52.25,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/122834/f1-22-champions-edition-steam-cd-key"
+        },
+        {
+            "price": 54.38,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/steam-f1-22-champions-edition-pc-steam-key-global"
+        },
+        {
+            "price": 55.43,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/f1-22-pc-origin-key-global-pl-en-i10000326053013"
+        },
+        {
+            "price": 56.87,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/f1-22-pc-steam-key-global-i10000326053002"
+        },
+        {
+            "price": 76.95,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/f1-22-champions-edition-origin"
+        },
+        {
+            "price": 85.87,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/126811/f1-22-champion-edition-origin-cd-key"
+        },
+        {
+            "price": 85.87,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/126811/f1-22-champion-edition-origin-cd-key"
+        }
+    ],
+    "type": "game",
+    "_rid": "n3UpAL7ZodkHAAAAAAAAAA==",
+    "_self": "dbs/n3UpAA==/colls/n3UpAL7Zodk=/docs/n3UpAL7ZodkHAAAAAAAAAA==/",
+    "_etag": "\"e5020adc-0000-0d00-0000-638e56830000\"",
+    "_attachments": "attachments/",
+    "_ts": 1670272643
+},
+{
+    "availability": "OnlineOnly",
+    "currency": "EUR",
+    "currentLowestPrice": 36.72,
+    "id": "forza-horizon-5",
+    "name": "Forza Horizon 5",
+    "releaseDate": "2021-11-08",
+    "developer": "Playground Games",
+    "lowestPricesBefore": [
+        {
+            "daysBefore": 30,
+            "price": 25.99
+        },
+        {
+            "daysBefore": 29,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 28,
+            "price": 17.99
+        },
+        {
+            "daysBefore": 27,
+            "price": 14.99
+        },
+        {
+            "daysBefore": 26,
+            "price": 12.99
+        },
+        {
+            "daysBefore": 25,
+            "price": 19.99
+        },
+        {
+            "daysBefore": 24,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 23,
+            "price": 13.99
+        },
+        {
+            "daysBefore": 22,
+            "price": 11.99
+        },
+        {
+            "daysBefore": 21,
+            "price": 9.99
+        },
+        {
+            "daysBefore": 20,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 19,
+            "price": 18.99
+        },
+        {
+            "daysBefore": 18,
+            "price": 13.99
+        },
+        {
+            "daysBefore": 17,
+            "price": 19.99
+        },
+        {
+            "daysBefore": 16,
+            "price": 8.99
+        },
+        {
+            "daysBefore": 15,
+            "price": 12.99
+        },
+        {
+            "daysBefore": 14,
+            "price": 9.99
+        },
+        {
+            "daysBefore": 13,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 12,
+            "price": 30.99
+        },
+        {
+            "daysBefore": 11,
+            "price": 19.99
+        },
+        {
+            "daysBefore": 10,
+            "price": 13.99
+        },
+        {
+            "daysBefore": 9,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 8,
+            "price": 10
+        },
+        {
+            "daysBefore": 7,
+            "price": 11.99
+        },
+        {
+            "daysBefore": 6,
+            "price": 18.99
+        },
+        {
+            "daysBefore": 5,
+            "price": 15.5
+        },
+        {
+            "daysBefore": 4,
+            "price": 21
+        },
+        {
+            "daysBefore": 3,
+            "price": 14.99
+        },
+        {
+            "daysBefore": 2,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 1,
+            "price": 17.3
+        },
+        {
+            "daysBefore": 0,
+            "price": 36.72
+        }
+    ],
+    "stores": [
+        {
+            "price": 36.72,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/xbox-forza-horizon-5-pc-xbox-live-key-united-states"
+        },
+        {
+            "price": 41.99,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/forza-horizon-5-us-xbox"
+        },
+        {
+            "price": 42.76,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/forza-horizon-5-xbox"
+        },
+        {
+            "price": 43.49,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/110443/forza-horizon-5-standard-edition-us-xbox-one-series-x-s-windows-10-cd-key"
+        },
+        {
+            "price": 43.49,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/110443/forza-horizon-5-standard-edition-us-xbox-one-series-x-s-windows-10-cd-key"
+        },
+        {
+            "price": 44.08,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/xbox-forza-horizon-5-pc-xbox-live-key-global"
+        },
+        {
+            "price": 44.52,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/101916/forza-horizon-5-standard-edition-xbox-one-windows-10-cd-key"
+        },
+        {
+            "price": 44.52,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/101916/forza-horizon-5-standard-edition-xbox-one-windows-10-cd-key"
+        },
+        {
+            "price": 44.95,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/101401/forza-horizon-5-standard-edition-xbox-one-series-x-s-windows-10-cd-key"
+        },
+        {
+            "price": 44.95,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/101401/forza-horizon-5-standard-edition-xbox-one-series-x-s-windows-10-cd-key"
+        },
+        {
+            "price": 45.24,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/xbox-forza-horizon-5-deluxe-edition-pc-xbox-live-key-united-states"
+        },
+        {
+            "price": 45.34,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/forza-horizon-5-pc-xbox-live-key-global-i10000256484026"
+        },
+        {
+            "price": 46.46,
+            "seller": "MMOGA",
+            "url": "https://www.mmoga.com/Xbox-Live/Xbox-One-Game-Keys/Forza-Horizon-5-Windows-PC-or-Xbox-One-Series-XS-Download-Code.html"
+        },
+        {
+            "price": 46.72,
+            "seller": "K4G.com",
+            "url": "https://k4g.com/product/forza-horizon-5-xbox-live-global-standard-edition-cd-key-0E30F32D"
+        },
+        {
+            "price": 46.72,
+            "seller": "K4G.com",
+            "url": "https://k4g.com/product/forza-horizon-5-xbox-live-united-states-standard-edition-cd-key-3BAC4C13"
+        },
+        {
+            "price": 46.78,
+            "seller": "Instant Gaming",
+            "url": "https://www.instant-gaming.com/en/8701-/"
+        },
+        {
+            "price": 47.09,
+            "seller": "CDKeys.com",
+            "url": "https://www.cdkeys.com/forza-horizon-5-xbox-one-xbox-series-x-s-pc-ww"
+        },
+        {
+            "price": 49.73,
+            "seller": "HRK Game",
+            "url": "https://www.hrkgame.com/en/randomkeyshop/set_currency/"
+        },
+        {
+            "price": 50.66,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/forza-horizon-5-deluxe-edition-xbox"
+        },
+        {
+            "price": 51.48,
+            "seller": "HRK Game",
+            "url": "https://www.hrkgame.com/en/randomkeyshop/set_currency/"
+        },
+        {
+            "price": 53.22,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/forza-horizon-5-xbox-series-x-s-windows-10-xbox-live-key-global-i10000256484025"
+        },
+        {
+            "price": 56.42,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/forza-horizon-5-deluxe-edition-xbox-us"
+        },
+        {
+            "price": 58.19,
+            "seller": "Green Man Gaming",
+            "url": "https://greenmangaming.sjv.io/c/1406679/1281797/15105"
+        },
+        {
+            "price": 59.22,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/xbox-forza-horizon-5-premium-edition-pc-xbox-live-key-united-states"
+        },
+        {
+            "price": 59.72,
+            "seller": "Instant Gaming",
+            "url": "https://www.instant-gaming.com/en/9595-/"
+        },
+        {
+            "price": 59.99,
+            "seller": "Newegg",
+            "url": "https://click.linksynergy.com/deeplink"
+        },
+        {
+            "price": 59.99,
+            "seller": "Microsoft Store",
+            "url": "https://click.linksynergy.com/deeplink"
+        },
+        {
+            "price": 59.99,
+            "seller": "Amazon.com",
+            "url": "https://www.amazon.com/gp/product/B09DCTNJWN"
+        },
+        {
+            "price": 59.99,
+            "seller": "Steam",
+            "url": "https://store.steampowered.com/app/1551360/"
+        },
+        {
+            "price": 67.56,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/forza-horizon-5-pc-steam-gift-global-i10000256484004"
+        },
+        {
+            "price": 68.59,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/forza-horizon-5-premium-edition-xbox-us"
+        },
+        {
+            "price": 68.72,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/forza-horizon-5-steam-gift"
+        },
+        {
+            "price": 69.44,
+            "seller": "K4G.com",
+            "url": "https://k4g.com/product/forza-horizon-5-xbox-live-xbox-global-deluxe-edition-cd-key-5EC5C0DD"
+        },
+        {
+            "price": 69.68,
+            "seller": "Instant Gaming",
+            "url": "https://www.instant-gaming.com/en/9567-/"
+        },
+        {
+            "price": 70.11,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/94262/forza-horizon-5-steam-altergift"
+        },
+        {
+            "price": 70.11,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/94262/forza-horizon-5-steam-altergift"
+        },
+        {
+            "price": 73.52,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/xbox-forza-horizon-5-deluxe-edition-pc-xbox-live-key-global"
+        },
+        {
+            "price": 77.42,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/102438/forza-horizon-5-premium-edition-us-xbox-series-x-s-windows-10-cd-key"
+        },
+        {
+            "price": 77.42,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/102438/forza-horizon-5-premium-edition-us-xbox-series-x-s-windows-10-cd-key"
+        },
+        {
+            "price": 77.46,
+            "seller": "K4G.com",
+            "url": "https://k4g.com/product/forza-horizon-5-xbox-live-global-premium-edition-cd-key-38B61A1A"
+        },
+        {
+            "price": 77.59,
+            "seller": "Green Man Gaming",
+            "url": "https://greenmangaming.sjv.io/c/1406679/1281797/15105"
+        },
+        {
+            "price": 79.88,
+            "seller": "Amazon.com",
+            "url": "https://www.amazon.com/gp/product/B09DCMR4H7"
+        },
+        {
+            "price": 79.99,
+            "seller": "Microsoft Store",
+            "url": "https://click.linksynergy.com/deeplink"
+        },
+        {
+            "price": 79.99,
+            "seller": "Newegg",
+            "url": "https://click.linksynergy.com/deeplink"
+        },
+        {
+            "price": 79.99,
+            "seller": "Steam",
+            "url": "https://store.steampowered.com/sub/596608/"
+        },
+        {
+            "price": 81.51,
+            "seller": "HRK Game",
+            "url": "https://www.hrkgame.com/en/randomkeyshop/set_currency/"
+        },
+        {
+            "price": 89.52,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/forza-horizon-5-premium-edition-xbox"
+        },
+        {
+            "price": 89.99,
+            "seller": "Newegg",
+            "url": "https://click.linksynergy.com/deeplink"
+        },
+        {
+            "price": 94.44,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/forza-horizon-5-deluxe-edition-pc-steam-gift-global-i10000256484010"
+        },
+        {
+            "price": 95.96,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/forza-horizon-5-deluxe-edition-steam-gift"
+        },
+        {
+            "price": 96.45,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/forza-horizon-5-premium-edition-xbox-series-x-s-windows-10-xbox-live-key-global-i10000256484032"
+        },
+        {
+            "price": 96.99,
+            "seller": "Green Man Gaming",
+            "url": "https://greenmangaming.sjv.io/c/1406679/1281797/15105"
+        },
+        {
+            "price": 97.59,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/94696/forza-horizon-5-deluxe-edition-steam-altergift"
+        },
+        {
+            "price": 97.59,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/94696/forza-horizon-5-deluxe-edition-steam-altergift"
+        },
+        {
+            "price": 99.99,
+            "seller": "Steam",
+            "url": "https://store.steampowered.com/sub/596609/"
+        },
+        {
+            "price": 99.99,
+            "seller": "Microsoft Store",
+            "url": "https://click.linksynergy.com/deeplink"
+        },
+        {
+            "price": 104.97,
+            "seller": "Eneba",
+            "url": "https://www.eneba.com/xbox-forza-horizon-5-premium-edition-pc-xbox-live-key-global"
+        },
+        {
+            "price": 111.08,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/101918/forza-horizon-5-premium-edition-xbox-one-windows-10-cd-key"
+        },
+        {
+            "price": 111.08,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/101918/forza-horizon-5-premium-edition-xbox-one-windows-10-cd-key"
+        },
+        {
+            "price": 111.23,
+            "seller": "G2A",
+            "url": "https://www.g2a.com/forza-horizon-5-premium-edition-pc-steam-gift-global-i10000256484019"
+        },
+        {
+            "price": 112.92,
+            "seller": "GAMIVO",
+            "url": "https://www.gamivo.com/product/forza-horizon-5-premium-edition-steam-gift"
+        },
+        {
+            "price": 114.68,
+            "seller": "G2Play",
+            "url": "https://www.g2play.net/category/94694/forza-horizon-5-premium-edition-steam-altergift"
+        },
+        {
+            "price": 114.68,
+            "seller": "Kinguin",
+            "url": "https://www.kinguin.net/category/94694/forza-horizon-5-premium-edition-steam-altergift"
+        },
+        {
+            "price": 116.88,
+            "seller": "HRK Game",
+            "url": "https://www.hrkgame.com/en/randomkeyshop/set_currency/"
+        },
+        {
+            "price": 179.98,
+            "seller": "Steam",
+            "url": "https://store.steampowered.com/bundle/26583/"
+        }
+    ],
+    "type": "game",
+    "_rid": "n3UpAL7ZodkIAAAAAAAAAA==",
+    "_self": "dbs/n3UpAA==/colls/n3UpAL7Zodk=/docs/n3UpAL7ZodkIAAAAAAAAAA==/",
+    "_etag": "\"e502f0db-0000-0d00-0000-638e567e0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1670272638
+},
+{
+    "availability": "OnlineOnly",
+    "currency": "EUR",
+    "currentLowestPrice": 14.99,
+    "id": "sea-of-craft",
+    "name": "Sea of Craft",
+    "releaseDate": "2022-04-28",
+    "developer": "Wizard Games",
+    "lowestPricesBefore": [
+        {
+            "daysBefore": 30,
+            "price": 25.99
+        },
+        {
+            "daysBefore": 29,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 28,
+            "price": 17.99
+        },
+        {
+            "daysBefore": 27,
+            "price": 14.99
+        },
+        {
+            "daysBefore": 26,
+            "price": 12.99
+        },
+        {
+            "daysBefore": 25,
+            "price": 19.99
+        },
+        {
+            "daysBefore": 24,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 23,
+            "price": 13.99
+        },
+        {
+            "daysBefore": 22,
+            "price": 11.99
+        },
+        {
+            "daysBefore": 21,
+            "price": 9.99
+        },
+        {
+            "daysBefore": 20,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 19,
+            "price": 18.99
+        },
+        {
+            "daysBefore": 18,
+            "price": 13.99
+        },
+        {
+            "daysBefore": 17,
+            "price": 19.99
+        },
+        {
+            "daysBefore": 16,
+            "price": 8.99
+        },
+        {
+            "daysBefore": 15,
+            "price": 12.99
+        },
+        {
+            "daysBefore": 14,
+            "price": 9.99
+        },
+        {
+            "daysBefore": 13,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 12,
+            "price": 30.99
+        },
+        {
+            "daysBefore": 11,
+            "price": 19.99
+        },
+        {
+            "daysBefore": 10,
+            "price": 13.99
+        },
+        {
+            "daysBefore": 9,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 8,
+            "price": 10
+        },
+        {
+            "daysBefore": 7,
+            "price": 11.99
+        },
+        {
+            "daysBefore": 6,
+            "price": 18.99
+        },
+        {
+            "daysBefore": 5,
+            "price": 15.5
+        },
+        {
+            "daysBefore": 4,
+            "price": 21
+        },
+        {
+            "daysBefore": 3,
+            "price": 14.99
+        },
+        {
+            "daysBefore": 2,
+            "price": 15.99
+        },
+        {
+            "daysBefore": 1,
+            "price": 17.3
+        },
+        {
+            "daysBefore": 0,
+            "price": 14.99
+        }
+    ],
+    "stores": [
+        {
+            "price": 14.99,
+            "seller": "Steam",
+            "url": "https://store.steampowered.com/app/990920/"
+        }
+    ],
+    "type": "game",
+    "_rid": "n3UpAL7ZodkJAAAAAAAAAA==",
+    "_self": "dbs/n3UpAA==/colls/n3UpAL7Zodk=/docs/n3UpAL7ZodkJAAAAAAAAAA==/",
+    "_etag": "\"e502cadb-0000-0d00-0000-638e56780000\"",
+    "_attachments": "attachments/",
+    "_ts": 1670272632
+}
+  ]
+}
